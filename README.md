@@ -1,5 +1,11 @@
 ## Hi there 👋
-[![SafelandingF's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SafelandingF&show_icons=true&theme=default#gh-light-mode-only)]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SafelandingF&layout=compact)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,electron,wasm)](https://skillicons.dev)
+
+
+
+[![SafelandingF's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SafelandingF&show_icons=true&theme=default#gh-light-mode-only)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SafelandingF&layout=compact)
 
 <!--
 **SafelandingF/SafelandingF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
