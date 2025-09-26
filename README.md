@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,electron,wasm)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,vue,react,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nextjs,tailwind,threejs,sqlite,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 
 
 [![SafelandingF's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SafelandingF&show_icons=true&theme=default#gh-light-mode-only)]
