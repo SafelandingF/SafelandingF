@@ -2,7 +2,7 @@
 [![SafelandingF's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SafelandingF&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/SafelandingF/github-readme-stats#gh-light-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SafelandingF&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SafelandingF)](https://github.com/SafelandingF/github-readme-stats)
+
 <!--
 **SafelandingF/SafelandingF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
